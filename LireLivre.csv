@@ -1,0 +1,11 @@
+01;"Vous etes a la mer, naviguant vers de nouvelles aventures. Soudain, vous apercevez une ile au loin. Que faites-vous?";"Accoster sur l'ile";"Continuer votre voyage";2;3
+02;"Vous decidez de vous diriger vers l'ile. En approchant, vous remarquez une petite plage. Voulez-vous accoster sur la plage ou explorer l'ile plus loin?";"Accoster sur la plage";"Explorer l'ile plus loin";4;5
+03;"Vous choisissez d'ignorer l'ile et de continuer votre voyage. Apres quelques heures, vous rencontrez un navire pirate. Combattez-vous ou fuyez-vous?";"Combattre le navire pirate";"Fuir le navire pirate";6;7
+04;"Vous accostez sur la plage et commencez a explorer les environs. Vous trouvez un fruit etrange ressemblant a un fruit du demon. Mangez-vous le fruit?";"Manger le fruit";"Ne pas manger le fruit";8;9
+05;"Vous decidez d'explorer l'ile plus loin. Apres une longue marche, vous trouvez un village cache. Approchez-vous du village ou continuez votre exploration?";"Approcher du village";"Continuer votre exploration";10;11
+06;"Vous decidez de combattre le navire pirate. Malheureusement, ils etaient trop forts. Vous etes capture et votre aventure se termine ici.";null;null
+07;"Vous decidez de fuir le navire pirate. Heureusement, ils ne vous poursuivent pas. Votre aventure continue.";null;null
+08;"Vous mangez le fruit et gagnez des pouvoirs incroyables. Vous continuez votre aventure avec de nouvelles capacites.";null;null
+09;"Vous decidez de ne pas manger le fruit et de le garder pour plus tard. Votre aventure continue.";null;null
+10;"Vous approchez du village et etes accueilli par les villageois. Ils vous offrent de l'aide et des provisions pour votre voyage.";null;null
+11;"Vous continuez votre exploration et trouvez un tresor cache. Votre aventure a paye, mais il est temps de retourner a votre navire.";null;null
